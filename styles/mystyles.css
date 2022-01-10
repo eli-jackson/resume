@@ -1,0 +1,28 @@
+.link  {
+    text-decoration: underline;
+}
+
+.bold  {
+    font-weight: bold;
+}
+
+.center  {
+    text-align: center;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.text  {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.fancy {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a:hover  {
+    text-decoration: underline;
+    font-weight: bold;
+}
